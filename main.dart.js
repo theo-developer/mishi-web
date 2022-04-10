@@ -53657,7 +53657,7 @@ $0(){return A.a9L(this.a,"post",t.X)},
 $S:0}
 A.Bm.prototype={
 M(a,b){var s=null,r=A.a5h(!1,!0,A.cI("MINIMAL",A.rs(B.aQ,30,B.V,3,s),s,s),s,!0,s,s,B.M,B.M,s,s,s,s,s,new A.Sd(b),s,B.M,s),q=$.af1(),p=t.p
-return A.qL(A.a([A.b5(s,A.jP(A.a([r,new A.rk(1,B.y9,A.b5(B.e_,A.aaU(A.a([A.En(B.JG,new A.Se(b),q),A.En(B.JJ,new A.Sf(),q),A.En(B.JL,new A.Sg(b),q),A.En(B.JH,new A.Sh(),q),A.En(B.JI,new A.Si(),q)],p),0,0),s,s,s,s,s,s),s)],p),B.aX,B.W),s,s,s,B.xZ,s,s),A.b5(s,s,B.kC,s,1,B.xW,s,s)],p),B.qq)}}
+return A.qL(A.a([A.b5(s,A.jP(A.a([r,new A.rk(1,B.y9,A.b5(B.e_,A.aaU(A.a([A.En(B.JG,new A.Se(b),q),A.En(B.JL,new A.Sf(),q),A.En(B.JI,new A.Sg(b),q),A.En(B.JH,new A.Sh(),q),A.En(B.JJ,new A.Si(),q)],p),0,0),s,s,s,s,s,s),s)],p),B.aX,B.W),s,s,s,B.xZ,s,s),A.b5(s,s,B.kC,s,1,B.xW,s,s)],p),B.qq)}}
 A.Sd.prototype={
 $0(){var s=A.a9D("/")
 A.BD(this.a).FQ(s)
@@ -58073,10 +58073,10 @@ B.JE=new A.dk(B.GE,B.Il,B.Iy,B.Je,B.HV,B.H1,B.Is,B.HY,B.I5,B.IX,B.Hb,B.Jk,B.HQ,B
 B.JF=new A.vh(1,"longestLine")
 B.JG=new A.hy("HOME",null,null,null,null,null)
 B.JH=new A.hy("ABOUT",null,null,null,null,null)
-B.JI=new A.hy("CONTACT",null,null,null,null,null)
-B.JJ=new A.hy("PORTFOLIO",null,null,null,null,null)
+B.JI=new A.hy("Mission",null,null,null,null,null)
+B.JJ=new A.hy("CONTACT",null,null,null,null,null)
 B.JK=new A.hy("READ MORE",null,null,null,null,null)
-B.JL=new A.hy("STYLE",null,null,null,null,null)
+B.JL=new A.hy("Services",null,null,null,null,null)
 B.Mn=new A.Ew(0,"system")
 B.JM=new A.vi(null)
 B.dM=new A.vk(0,"clamp")
